@@ -1,0 +1,3 @@
+pytest
+pytest-selenium
+selenium 4.9
