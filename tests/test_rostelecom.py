@@ -4,7 +4,7 @@ from config import TestData, valid_pass, valid_email, invalid_pass, invalid_emai
     thirty_letters, thirty_one_letters
 
 # Строка для запуска кода
-# python -m pytest -v --driver Chrome --driver-path /tests/chromedriver.exe tests/test_rostelekom.py
+# python -m pytest -v tests/test_rostelecom.py
 
 # ТР-001
 # Логотип Ростелеком (переход на страницу авторизации) виден на странице
